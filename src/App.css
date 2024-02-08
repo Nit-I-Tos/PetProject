@@ -1,0 +1,22 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+    overflow: hidden;
+}
+
+.header{
+    position: fixed;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
